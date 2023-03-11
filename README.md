@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👯 I’m looking to collaborate on **open sourcwe projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **aithabathuladeeven@gmail.com**
 
